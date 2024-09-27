@@ -1,0 +1,3 @@
+Convolutional neural network with hebbian learning and lateral inhibition
+
+New improvements coming soon...
